@@ -467,10 +467,10 @@
 	<dict>
 		<key>DefaultVolume</key>
 		<string>MacOS</string>
+		<key>Fast</key>
+		<true/>
 		<key>Legacy</key>
 		<string>PBR</string>
-		<key>Timeout</key>
-		<integer>0</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
