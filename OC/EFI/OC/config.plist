@@ -919,9 +919,9 @@
 			<key>Resolution</key>
 			<string></string>
 			<key>ShowPicker</key>
-			<true/>
+			<false/>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>0</integer>
 			<key>UsePicker</key>
 			<true/>
 		</dict>
@@ -1169,7 +1169,7 @@
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>IgnoreTextInGraphics</key>
-			<false/>
+			<true/>
 			<key>ProvideConsoleControl</key>
 			<false/>
 			<key>ProvideConsoleGop</key>
