@@ -125,17 +125,17 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>GACW to XGAC</string>
+				<string>GACW to XACW</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>FCVHQUNX</data>
+				<data>R0FDVwA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>FCVYR0FD</data>
+				<data>WEFDVwA=</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -143,17 +143,17 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>GBAW  to XGAB</string>
+				<string>GBAW  to XBAW</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>RQRHQkFX</data>
+				<data>R0JBVwA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>RQRYR0FC</data>
+				<data>WEJBVwA=</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -197,17 +197,17 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>ITLB to XITL</string>
+				<string>ITLB to XTLB</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>TQRJVExC</data>
+				<data>SVRMQgA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>TQRYSVRM</data>
+				<data>WFRMQgA=</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -221,11 +221,11 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>R0JUSQE=</data>
+				<data>R0JUSQFw</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WEJUSQE=</data>
+				<data>WEJUSQFw</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -233,17 +233,17 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>GBTC to XGBU</string>
+				<string>GBTC to XBTC</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>QiBHQlRD</data>
+				<data>R0JUQwA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>QiBYR0JV</data>
+				<data>WEJUQwA=</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -251,17 +251,17 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SBTC to XSBT</string>
+				<string>SBTC to YBTC</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>SSZTQlRD</data>
+				<data>U0JUQwM=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>SSZYU0JU</data>
+				<data>WUJUQwM=</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -269,53 +269,17 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>GCGC to XGCG</string>
+				<string>GCGC to XCGC</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>TwdHQ0dD</data>
+				<data>R0NHQwg=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>TwdYR0NH</data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>_Q24 to XQ24</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>X1EyNA==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Replace</key>
-				<data>WFEyNA==</data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>_Q26 to XQ26</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>X1EyNg==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Replace</key>
-				<data>WFEyNg==</data>
+				<data>WENHQwg=</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
